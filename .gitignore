@@ -1,0 +1,4 @@
+.vscode/ipch
+bin/*
+build/*
+CMakeFiles
